@@ -1,2 +1,1 @@
-# todo-local-server
-A local server for a todo app
+# local_todo-list
